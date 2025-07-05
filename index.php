@@ -12,7 +12,7 @@ session_start();
 
 //buat ape session, nama ke email, roles
 // Set session variables
-$_SESSION["default_username"] = "murugan";
+$_SESSION["default_username"] = "muruganxxx";
 $_SESSION["role"] = "aku kan king";
 
 // 1. connect ke database
