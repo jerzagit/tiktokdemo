@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Global Student Exchange Dashboard</title>
+<title>Global Student Efeendi Dashboard</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -12,7 +12,7 @@ session_start();
 
 //buat ape session, nama ke email, roles
 // Set session variables
-$_SESSION["default_username"] = "murugan";
+$_SESSION["default_username"] = "muruganxxx";
 $_SESSION["role"] = "aku kan king";
 
 // 1. connect ke database
